@@ -102,7 +102,7 @@ VIM, nano,where nano is good to know - when dealing with servers (headless OS's)
 1. `echo [output]` to display text with output in double-quotes
    1. `echo [output] > [filename]` to echo to a file, not sure if the filename doesn't exist if it is alos created
 
-## Searching for strings in a file
+### Searching for strings in a file
 
 1. `grep [searchterm] [filename]` to search for a term (in double-quotes if there are spaces in your phrase) inside a file, it returns the line # where/if it is found - you can also use RegEx
 1. `find . -name "*.sh"` finds the locations of files and folders based on your search conditions, where `.` means the current directory, `-name` means by name
@@ -113,7 +113,7 @@ VIM, nano,where nano is good to know - when dealing with servers (headless OS's)
 
 Transferring output to some other destination which we have done with some of the `cat` and `echo` cmds. You use the `>` symbol - didn't seem to understand the point of his example.
 
-## Create a symlink
+### Create a symlink
 
 A symlink (symbolic link) is a file whose purpose is to point to a file or directory by specifying a path - basically a shortcut. Use the `ln` cmd.
 
@@ -121,7 +121,7 @@ A symlink (symbolic link) is a file whose purpose is to point to a file or direc
 1. `rm dls` to remove the symlink
 1. `mklink` to make a symlink in Windows if you are not using Git Bash
 
-## File compression and creating tar balls
+### File compression and creating tar balls
 
 A **tar** is a computer file format that combines multiple files. Tarball is a jargon term for a TAR archive - a group of files collected together as one; is a computer software utility for collecting many files into one archive file, often referred to as a tarball, for distribution or backup purposes...kind of like a `zip` file.
 
@@ -129,7 +129,7 @@ A **tar** is a computer file format that combines multiple files. Tarball is a j
 1. `tar -tzvf [filename.tar.gz]` to peek to see what is inside a tarball
 1. to extract/unpack what is in a tarball, make a new directory, cd into it, then `tar -xzvf [filepath/filename.tar.gz]`
 
-## History
+### History
 
 1. `history` to list all your cmds
    1. `!ID#` to run that cmd again
