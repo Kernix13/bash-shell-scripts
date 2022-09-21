@@ -149,10 +149,24 @@ mkdir test.txt
 
 - create a folder, put a file in it, write to it - you could do this in the cmd line or write a script to do it - use `>>` to write to a file - this is good for repetitive tasks
 
-Cheat Sheets:
+## Cheat Sheets
 
 - [Bash Scripting Cheat Sheets](https://linuxconfig.org/bash-scripting-cheat-sheet)
 - [Bash scripting cheatsheet](https://devhints.io/bash)
 - [BASH Cheat Sheet](https://www.pcwdld.com/bash-cheat-sheet#wbounce-modal)
 - [Linux Bash Commands Cheat Sheet](https://algodaily.com/lessons/bash-commands-cheat-sheet1)
 - [Basic Bash Commands for Linux Newbies](https://www.maketecheasier.com/basic-bash-command-for-new-linux-users/)
+
+## Links on Useful Shell Script
+
+1. [GitHub repo: Awesome Bash](https://github.com/awesome-lists/awesome-bash)
+1. [Linux Shell / Useful Script Examples](https://learn.openwaterfoundation.org/owf-learn-linux-shell/useful-scripts/useful-scripts/)
+1. [10 Frequently Used Bash Scripts and Commands](https://betterprogramming.pub/10-frequently-used-bash-scripts-and-commands-afe9e7fa8cea)
+1. [Useful BASH Scripts For Heavy Commandline Users](https://ostechnix.com/collection-useful-bash-scripts-heavy-commandline-users/)
+1. [10 useful shell script code snippets](https://kedar.nitty-witty.com/blog/10-useful-shell-script-code-snippets-linux)
+1. [7 Bash Shell Scripts Every Linux Administrators Should Know](https://www.cyberithub.com/7-bash-shell-scripts-every-linux-administrators-should-know-about/)
+1. [How to use inputs in your shell scripts](https://www.redhat.com/sysadmin/process-script-inputs)
+1. [GitHub: Shell Scripting Templates and Utilities](https://github.com/natelandau/shell-scripting-templates)
+1. [bash scripts you have written for yourself](https://www.quora.com/What-are-some-good-bash-scripts-you-have-written-for-yourself)
+1. [Shell scripting and more useful commands](https://www.lancaster.ac.uk/staff/tipper/writing/luui/html/unix-intro012.html)
+1. [30 Bash Script Examples](https://linuxhint.com/30_bash_script_examples/)
